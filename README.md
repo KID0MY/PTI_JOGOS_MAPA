@@ -1,2 +1,7 @@
 # PTI_JOGOS_MAPA
- my pti game
+Projeto Técnico Intradiciplinar criado pelo time RavenKey Studios
+
+RavenKey Studios Integrantes:
+ - Lucas Triboli
+ - Catarina Polidoro
+ - Sofia Ayumi
